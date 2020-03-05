@@ -45,7 +45,6 @@ public class AdminLogin extends AppCompatActivity {
             Toast.makeText(this, "Login Failed.Try Again", Toast.LENGTH_SHORT).show();
             username.setText("");
             password.setText("");
-
         }
     }
 }
