@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TRS2</string>
+
+
+    <string name="login_preference">com.example.chetansharma.trs2_login_preference</string>
+    <string name="login_status_preference">com.example.chetansharma.trs2_login_status_preference</string>
+    <string name="username">admin123</string>
+    <string name="password">Joule@123</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.chetansharma.trs2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_round"
+        android:label="TRS"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AdminLogin" />
+        <activity android:name=".SuccessActivity" />
+        <activity android:name=".Admin_screen" />
+        <activity android:name=".Questions" />
+        <activity android:name=".Feedback" />
+        <activity android:name=".Question2" />
+        <activity android:name=".Question3" />
+        <activity android:name=".Question4" />
+        <activity android:name=".r_res" />
+        <activity android:name=".b_res" />
+        <activity android:name=".s_res" />
+        <activity android:name=".ma_res"></activity>
+    </application>
+
+</manifest>
